@@ -62,6 +62,7 @@ response = bedrock.invoke_model(
     - S3
     - API Gateway
     - Postman
+      
 ## 🧬 Clone & Deploy from GitHub
 You can clone the entire Lambda function setup from this GitHub repository and deploy it within your AWS account.
 🔗 GitHub Repo:https://github.com/DhanushGD/BLOG-GENERATOR.git
